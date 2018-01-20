@@ -1,0 +1,40 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jmpphotography.com" resolutions="1x" timestamp="1516422473393">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="463182380" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
+    <file name="index.css" crc="4135397279" ref="index"/>
+    <file name="nomq_index.css" crc="296648428" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="filter-3.png" crc="149210676" seo="true" mt="1478889364000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="fondo web-u646-fr.png" crc="242975188" ref="index"/>
+    <file name="jmp-logo hd_opt-u657-3.png" crc="508765967" ref="index"/>
+    <file name="jmp-name-u738.png" crc="4023486817" ref="index"/>
+    <file name="joaquin-hd.jpg" crc="207315562" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="jmp-logo hd_opt-u1773-fr.png" crc="4143750307" ref="index"/>
+    <file name="jmp-logo hd_opt-u657-32.png" crc="2013207" ref="index"/>
+    <file name="jmp-name-u7382.png" crc="4056364993" ref="index"/>
+    <file name="jmp-logo hd_opt-u1773-fr2.png" crc="3802888095" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3955215977" seo="true" mt="1516421588197" redirect="true"/>
+</manifest>
